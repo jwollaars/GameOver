@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 210d03b6a0ae0c04f94bb544cd4b6cd4
+timeCreated: 1458728374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blabla Run 2_0
+    21300002: Blabla Run 2_1
+    21300004: Blabla Run 2_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blabla Run 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4876543, y: 0.4188712}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline:
+      - - {x: 5.3950624, y: 18.596123}
+        - {x: -7.6049376, y: 18.596123}
+        - {x: -11.604938, y: 17.596123}
+        - {x: -12.604938, y: 9.596122}
+        - {x: -12.604938, y: -7.403878}
+        - {x: -0.60493755, y: -12.403878}
+        - {x: 12.395062, y: -12.403878}
+        - {x: 13.395062, y: -10.403878}
+        - {x: 13.395062, y: 5.596122}
+        - {x: 12.395062, y: 11.596122}
+    - name: Blabla Run 2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -15}
+        - {x: 8, y: -9}
+        - {x: 8, y: 14}
+    - name: Blabla Run 2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5017636, y: 0.3657179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -11}
+        - {x: -2, y: -15}
+        - {x: 6, y: -15}
+        - {x: 11, y: -10}
+        - {x: 8, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
