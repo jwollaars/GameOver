@@ -125,6 +125,7 @@ public class GameManager : MonoBehaviour
         if(!Camera.main.GetComponent<SmoothCamera2D>().OnCheck)
         {
             Camera.main.GetComponent<SmoothCamera2D>().OnCheck = true;
+            PlaySoundOnce(6);
         }
 
         if(m_PlaagGeestScript.m_GameRunning)
